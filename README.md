@@ -1,2 +1,3 @@
 # anayak-demo
 This is my first GIT Repository.
+Author - Ayushman Nayak
